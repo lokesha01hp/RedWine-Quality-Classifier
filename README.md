@@ -1,4 +1,4 @@
-# RedWine-Quality-Classifier-Using-Different-Models
+# RedWine-Quality-Classifier-Using-Different-Classification-Models
 
 ## Project Overview
 
