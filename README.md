@@ -6,6 +6,7 @@
 
 ---
 ## Model Comparison
+
 Trained and compared **four models** to identify the best performer for the wine quality classifier:
 
 | Model                     | Accuracy |
@@ -14,3 +15,5 @@ Trained and compared **four models** to identify the best performer for the wine
 | Support Vector Classifier | 0.87     |
 | Neural Network (MLP)      | 0.89     |
 | XGBoost Classifier        | 0.91     |
+
+---
