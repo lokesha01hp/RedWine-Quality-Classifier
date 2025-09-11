@@ -19,4 +19,4 @@ Trained and compared **four models** to identify the best performer for the wine
 
 ---
 ## Winner of the Trend:
-We can see that with a model accuracy of 91% XGBoost Classifier, which is an ensemble machine learning algorithm, wins.
+We can see that, with a model accuracy of 91%, the XGBoost Classifier, an ensemble machine learning algorithm, wins.
