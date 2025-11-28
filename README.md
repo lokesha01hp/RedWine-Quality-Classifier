@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-- This project implements a ****Wine Quality Classifier using machine learning and a neural network to predict the quality of wine based on its physicochemical features.
+- This project implements Wine Quality Classifier using machine learning and a neural network to predict the quality of wine based on its physicochemical features.
 - The pipeline includes **clean EDA, preprocessing, model training, evaluation, model comparison and model saving that has the best accuracy** for testing.
 
 ---
